@@ -12,18 +12,10 @@ function Homepage(props) {
 
     const [data, setData] = useState([]);
 
-    const allProducts = async () => {
-        getAllProduct().then(res => {
-            setData(res.data);
-        }).catch(err => {
-            console.log("Error ", err);
-        });
-    }
 
 
     useEffect(() => {
         dispatch(userInfoFetched(JSON.parse(localStorage.getItem("UserData"))));
-        allProducts();
     }, []);
     return (
         <h2>Here is the homepage</h2>
