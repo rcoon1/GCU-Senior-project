@@ -257,7 +257,6 @@
 
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="https://assets.codepen.io/10811741/desecurity.png" /></p>
 
 </body>
 </html>
