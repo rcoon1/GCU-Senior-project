@@ -29,25 +29,14 @@
 <table cellspacing="0" class="Table" style="border-collapse:collapse; border:none; margin-left:7px; width:630px">
 	<tbody>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">
-			<p>Daniel Rumfelt</p>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:186px">
+			<p>Name</p>
 			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:240px">
-			<p>Backend, Security, Angular, Payment Processin</p>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:240px">
+			<p>Role</p>
 			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">
-			<p>Software Engineering</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">
-			<p>Christa Moncrief</p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:240px">
-			<p>Frontend, GUI and Database Development</p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">
-			<p>Web Design, GUI</p>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:204px">
+			<p>Department</p>
 			</td>
 		</tr>
 		<tr>
