@@ -39,7 +39,28 @@
 			<p>Department</p>
 			</td>
 		</tr>
-
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">
+			<p>Daniel Rumfelt</p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:240px">
+			<p>Backend, Security, Angular, Payment Processin</p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">
+			<p>Software Engineering</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">
+			<p>Christa Moncrief</p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:240px">
+			<p>Frontend, GUI and Database Development</p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">
+			<p>Web Design, GUI</p>
+			</td>
+		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">
 			<p>Ryan Coon</p>
